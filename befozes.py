@@ -8,7 +8,7 @@ while True:
         break
 
 print("3.feladat")
-
+/*megjegyzés*/
 max=uveg[0]
 imax=0
 for i in range(len(uveg)):
