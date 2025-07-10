@@ -21,3 +21,4 @@ if lekvar<sum(uveg):
     print("Elegendő üveg volt")
 else:
     print("Maradt lekvár")
+print("megfőztem")
